@@ -5,6 +5,7 @@ def average(p,q):
     return (sum//2)
 
 # call the function for different value
+
 print("Average:",average(7,7))
 print("Average:",average(12,6))
 print("Average:",average(1,5))
