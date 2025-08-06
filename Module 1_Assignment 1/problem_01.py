@@ -1,6 +1,5 @@
 # Write a Python program that takes a number as input and checks whether it is even or odd.
 
-
 number=int(input("Enter the number : "))
 
 if number % 2 ==0:
@@ -8,3 +7,4 @@ if number % 2 ==0:
     
 else:
     print("The number is odd")
+
